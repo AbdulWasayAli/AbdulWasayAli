@@ -73,9 +73,9 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 > A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
 - **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-### Web Development Projects
-> Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.
-- **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript
+### Full-Stack & MERN Web Applications
+> Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
 
 ---
 
