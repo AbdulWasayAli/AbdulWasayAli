@@ -1,30 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Abdul+Wasay+Ali;Mobile+App+Engineer+(Flutter+%26+Dart);Full-Stack+%26+MERN+Stack+Developer;Building+Scalable+%26+High-Impact+Solutions" alt="Typing SVG" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Abdul%20Wasay%20Ali&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20App%20Engineer%20(Flutter)%20%7C%20Full-Stack%20%26%20MERN%20Developer&descFontSize=18&descAlignY=60" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <br/>
+
+  <a href="https://github.com/AbdulWasayAli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Cross-Platform+Mobile+Architect+(Flutter);MERN+Stack+%26+Scalable+Web+Engineer;Building+Impactful+%26+Modern+Digital+Products" alt="Typing SVG" />
   </a>
-  &nbsp;
-  <a href="https://github.com/AbdulWasayAli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/AbdulWasayAli" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=AbdulWasayAli&style=flat-square&color=00f0ff&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
-### Overview
+### About Me
 
-Software Engineering student based in Karachi, Pakistan, specializing in cross-platform mobile architecture with Flutter and full-stack web engineering using the MERN stack. Committed to building robust, user-centric software through clean code, structured design patterns, and efficient API integrations.
+Software Engineering student at **Aptech (SBTE)** based in Karachi, Pakistan. Focused on developing high-performance mobile applications using **Flutter & Dart** and architecting modern, data-driven web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). 
 
-- **Current Academic Focus:** Diploma in Software Engineering and Intermediate studies at Aptech (SBTE).
-- **Core Interests:** Mobile System Architecture, State Management, Scalable REST APIs, Database Optimization.
-- **Availability:** Open for software engineering internships and collaborative development opportunities.
+- **Specialization:** Cross-platform mobile development, reactive UI engineering, state management, RESTful API design.
+- **Current Goals:** Seeking impactful software engineering internships, collaborative open-source opportunities, and production-level development roles.
+
+---
+
+### Tech Stack & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,php,laravel,cs,dotnet,firebase,mysql,git,github,figma&perline=10" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -41,20 +57,18 @@ Software Engineering student based in Karachi, Pakistan, specializing in cross-p
     <tr>
       <td valign="top">
         <ul>
-          <li><b>Languages:</b> Dart</li>
-          <li><b>Framework:</b> Flutter (Cross-platform Android & iOS)</li>
-          <li><b>State Management:</b> Provider Pattern</li>
-          <li><b>Backend Integration:</b> Firebase Auth, Firestore, RESTful APIs</li>
-          <li><b>UI Engineering:</b> Responsive layouts, adaptive design, custom components</li>
+          <li><b>Core Framework:</b> Flutter & Dart (Android & iOS)</li>
+          <li><b>Architecture:</b> Provider, Layered / Clean Architecture</li>
+          <li><b>Cloud & Backend:</b> Firebase Auth, Firestore, Cloud Storage, REST APIs</li>
+          <li><b>UI/UX Implementation:</b> Responsive UI, Custom Painter, Material 3</li>
         </ul>
       </td>
       <td valign="top">
         <ul>
-          <li><b>Frontend:</b> React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3</li>
-          <li><b>Backend:</b> Node.js, Express.js (REST APIs, JWT authentication)</li>
-          <li><b>Databases:</b> MongoDB (Mongoose), MySQL, SQL Server</li>
-          <li><b>Other Technologies:</b> PHP, Laravel, C#, ASP.NET MVC</li>
-          <li><b>Development Tools:</b> Git, GitHub, Postman, Figma</li>
+          <li><b>Frontend:</b> React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap</li>
+          <li><b>Backend:</b> Node.js, Express.js (REST APIs, JWT Authentication)</li>
+          <li><b>Databases:</b> MongoDB, MySQL, Microsoft SQL Server</li>
+          <li><b>Secondary Stacks:</b> PHP, Laravel, C#, ASP.NET MVC</li>
         </ul>
       </td>
     </tr>
@@ -63,35 +77,7 @@ Software Engineering student based in Karachi, Pakistan, specializing in cross-p
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### Featured Work
+### Featured Projects
 
 <table>
   <thead>
@@ -103,16 +89,38 @@ Software Engineering student based in Karachi, Pakistan, specializing in cross-p
   <tbody>
     <tr>
       <td valign="top">
-        <p>A machine learning-integrated mobile application that performs real-time Pakistan Sign Language translation to facilitate accessible communication for individuals with hearing impairments.</p>
-        <p><b>Stack:</b> <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>FastAPI</code> <code>MediaPipe</code> <code>TensorFlow</code></p>
+        <p>An intelligent real-time translation mobile application bridging accessibility gaps for the deaf and mute community by converting sign gestures into readable text and speech.</p>
+        <p><b>Technologies:</b> <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>FastAPI</code> <code>MediaPipe</code> <code>TensorFlow</code></p>
       </td>
       <td valign="top">
-        <p>End-to-end full-stack web solutions featuring secure authentication systems, dynamic client-side rendering with React, structured API backends, and database architectures.</p>
-        <p><b>Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Laravel</code> <code>MySQL</code></p>
+        <p>Robust and scalable web applications featuring role-based authentication, interactive dashboards, dynamic CRUD operations, and responsive component-driven user interfaces.</p>
+        <p><b>Technologies:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Laravel</code> <code>MySQL</code></p>
       </td>
     </tr>
   </tbody>
 </table>
+
+---
+
+### Activity & Performance Graphs
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWasayAli&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=9CA3AF" height="175" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWasayAli&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -124,18 +132,22 @@ Software Engineering student based in Karachi, Pakistan, specializing in cross-p
 
 ---
 
-### Contact & Profiles
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Direct_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/AbdulWasayAli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,21,11,1&height=110&section=footer" width="100%" />
+</div>
