@@ -50,9 +50,7 @@ Dehli Government Boys Secondary School, Karachi
 ## Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nodejs,express,mongodb,javascript,tailwind,bootstrap,html,css,php,laravel,cs,dotnet,mysql,git,github,figma,postman,vscode&perline=11" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nodejs,express,mongodb,javascript,tailwind,bootstrap,html,css,php,laravel,cs,dotnet,mysql,git,github,figma,postman,vscode&perline=11" alt="Tech Stack" />
 </p>
 
 ---
