@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090E" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#040D1A" />
+    </linearGradient>
+
+    <!-- Glowing Tech Gradients -->
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="45%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.85; }
+    }
+    @keyframes floatParticle {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    .neon-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      letter-spacing: -1px;
+    }
+    .mono-sub {
+      font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .tag-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .ambient-sphere {
+      animation: pulseGlow 5s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="150" cy="80" r="160" fill="#00F0FF" opacity="0.08" filter="url(#glow)" class="ambient-sphere" />
+  <circle cx="1050" cy="240" r="180" fill="#8B5CF6" opacity="0.09" filter="url(#glow)" class="ambient-sphere" />
+
+  <!-- Subtle Cyber Tech Grid Pattern -->
+  <g opacity="0.06" stroke="#00F0FF" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="160" y1="0" x2="160" y2="320" />
+    <line x1="360" y1="0" x2="360" y2="320" />
+    <line x1="560" y1="0" x2="560" y2="320" />
+    <line x1="760" y1="0" x2="760" y2="320" />
+    <line x1="960" y1="0" x2="960" y2="320" />
+  </g>
+
+  <!-- Fluid Cyber Dynamic Wave -->
+  <path d="M0,230 C250,290 450,170 700,230 C950,290 1100,210 1200,240 L1200,320 L0,320 Z" fill="url(#waveGrad)" />
+  <path d="M0,250 C280,310 500,190 750,250 C1000,310 1120,230 1200,260" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.4" filter="url(#subtleGlow)" />
+  <path d="M0,270 C300,330 520,220 780,270 C1020,320 1140,260 1200,280" fill="none" stroke="#8B5CF6" stroke-width="1.5" opacity="0.3" />
+
+  <!-- Top Decorative Code Chip -->
+  <g transform="translate(600, 52)">
+    <rect x="-140" y="-16" width="280" height="32" rx="16" fill="url(#badgeGrad)" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="-115" cy="0" r="4" fill="#00F0FF" filter="url(#subtleGlow)" />
+    <text x="-95" y="4" fill="#00F0FF" class="mono-sub">SYSTEM // ACTIVE_DEV</text>
+  </g>
+
+  <!-- Name Main Title -->
+  <text x="600" y="142" text-anchor="middle" class="neon-text" font-size="52" fill="url(#cyanPurple)" filter="url(#glow)">Abdul Wasay Ali</text>
+
+  <!-- Secondary Professional Title -->
+  <text x="600" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="500" fill="#E2E8F0" letter-spacing="0.5">
+    Aspiring Software Engineer &bull; Mobile App Developer &bull; Full-Stack Web Architect
+  </text>
+
+  <!-- Interactive Tag Badges -->
+  <g transform="translate(600, 230)">
+    <!-- Badge 1: Flutter -->
+    <g transform="translate(-250, 0)">
+      <rect x="-65" y="-15" width="130" height="30" rx="8" fill="#02569B" fill-opacity="0.35" stroke="#02569B" stroke-width="1.2" />
+      <text x="0" y="5" text-anchor="middle" fill="#38BDF8" class="tag-text">Flutter &amp; Dart</text>
+    </g>
+
+    <!-- Badge 2: MERN Stack -->
+    <g transform="translate(-85, 0)">
+      <rect x="-70" y="-15" width="140" height="30" rx="8" fill="#10B981" fill-opacity="0.25" stroke="#10B981" stroke-width="1.2" />
+      <text x="0" y="5" text-anchor="middle" fill="#34D399" class="tag-text">MERN Stack</text>
+    </g>
+
+    <!-- Badge 3: Firebase & REST -->
+    <g transform="translate(90, 0)">
+      <rect x="-75" y="-15" width="150" height="30" rx="8" fill="#F59E0B" fill-opacity="0.25" stroke="#F59E0B" stroke-width="1.2" />
+      <text x="0" y="5" text-anchor="middle" fill="#FBBF24" class="tag-text">Firebase &amp; REST APIs</text>
+    </g>
+
+    <!-- Badge 4: AI & Computer Vision -->
+    <g transform="translate(265, 0)">
+      <rect x="-70" y="-15" width="140" height="30" rx="8" fill="#8B5CF6" fill-opacity="0.25" stroke="#8B5CF6" stroke-width="1.2" />
+      <text x="0" y="5" text-anchor="middle" fill="#C084FC" class="tag-text">MediaPipe &amp; AI</text>
+    </g>
+  </g>
+
+  <!-- Sleek Border Framing -->
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="url(#cyanPurple)" stroke-width="1" stroke-opacity="0.3" />
+</svg>

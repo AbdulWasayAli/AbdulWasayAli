@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Abdul Wasay Ali</h1>
-  <p><b>Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration</b></p>
+  <img src="./assets/header.svg" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
+
+  <br/><br/>
 
   <a href="https://github.com/AbdulWasayAli">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Typing Banner" />
