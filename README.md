@@ -1,12 +1,6 @@
 # Abdul Wasay Ali
 
-### Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
-
-<p align="left">
-  <a href="https://github.com/AbdulWasayAli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=650&height=40&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Terminal Typist" />
-  </a>
-</p>
+## Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
 
 I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
@@ -54,7 +48,7 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-## Technologies & Tools
+## Tech Stack
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
@@ -84,60 +78,15 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-## Featured Engineering & Projects
+## Featured Projects
 
-### Pakistan Sign Language (PSL) Translator
-`Mobile AI Engineering` • `Healthcare & Accessibility` • `Flutter & Deep Learning`
+### Pakistan Sign Language (PSL) Translator App
+> A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
+- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-> **Real-time bidirectional sign language translation engine** designed to eliminate communication barriers for Pakistan's hearing-impaired community through high-performance on-device computer vision.
-
-- **Neural Architecture:** Real-time 21-point hand landmark tracking via MediaPipe pipeline, sequenced through temporal LSTM/GRU neural models for continuous sign classification.
-- **Client System:** High-FPS responsive mobile UI built in Flutter with hardware-accelerated camera stream processing, low-latency async API integration, and modular state architecture.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-### Scalable Web Systems & Full-Stack Applications
-`Full-Stack Architecture` • `MERN Ecosystem` • `RESTful Microservices`
-
-> **Production-grade full-stack web platforms** built with modern reactive component design, secure role-based access control (RBAC), and high-throughput backend services.
-
-- **Frontend Architecture:** Declarative React.js client featuring reusable component systems, custom hooks, global state orchestration, and responsive Tailwind UI.
-- **Backend & Data Pipeline:** Robust RESTful services built on Node.js & Express.js with schema-level validation, JWT session handling, and optimized MongoDB/MySQL data modeling.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-## Engineering Telemetry & Activity
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWasayAli&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Telemetry" />
-</div>
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=9CA3AF" height="165" alt="Top Languages" />
-</p>
+### Full-Stack & MERN Web Applications
+> Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
 
 ---
 
