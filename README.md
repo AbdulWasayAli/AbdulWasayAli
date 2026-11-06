@@ -78,9 +78,9 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-## 🚀 Engineering Highlights & Featured Work
+## Featured Engineering & Projects
 
-### 📱 Pakistan Sign Language (PSL) Translator
+### Pakistan Sign Language (PSL) Translator
 `Mobile AI Engineering` • `Healthcare & Accessibility` • `Flutter & Deep Learning`
 
 > **Real-time bidirectional sign language translation engine** designed to eliminate communication barriers for Pakistan's hearing-impaired community through high-performance on-device computer vision.
@@ -99,7 +99,7 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-### 🌐 Scalable Web Systems & Full-Stack Applications
+### Scalable Web Systems & Full-Stack Applications
 `Full-Stack Architecture` • `MERN Ecosystem` • `RESTful Microservices`
 
 > **Production-grade full-stack web platforms** built with modern reactive component design, secure role-based access control (RBAC), and high-throughput backend services.
