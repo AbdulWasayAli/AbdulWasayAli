@@ -78,44 +78,44 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-## Featured Projects
+## 🚀 Engineering Highlights & Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📱 Pakistan Sign Language (PSL) Translator</h3>
-      <p align="left">
-        <em>AI-powered mobile application designed to bridge the communication gap for Pakistan's hearing-impaired community with real-time gesture recognition.</em>
-      </p>
-      <ul>
-        <li>Real-time sign language recognition using MediaPipe hand tracking & LSTM models</li>
-        <li>Clean cross-platform mobile UI built in Flutter with low-latency API integration</li>
-      </ul>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🌐 Full-Stack & MERN Applications</h3>
-      <p align="left">
-        <em>End-to-end web applications built with modern component architectures, robust RESTful APIs, and responsive design systems.</em>
-      </p>
-      <ul>
-        <li>Secure authentication, state management, and optimized MongoDB/MySQL data models</li>
-        <li>Production-ready applications built with MERN stack & Laravel ecosystem</li>
-      </ul>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 📱 Pakistan Sign Language (PSL) Translator
+`Mobile AI Engineering` • `Healthcare & Accessibility` • `Flutter & Deep Learning`
+
+> **Real-time bidirectional sign language translation engine** designed to eliminate communication barriers for Pakistan's hearing-impaired community through high-performance on-device computer vision.
+
+- **Neural Architecture:** Real-time 21-point hand landmark tracking via MediaPipe pipeline, sequenced through temporal LSTM/GRU neural models for continuous sign classification.
+- **Client System:** High-FPS responsive mobile UI built in Flutter with hardware-accelerated camera stream processing, low-latency async API integration, and modular state architecture.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Scalable Web Systems & Full-Stack Applications
+`Full-Stack Architecture` • `MERN Ecosystem` • `RESTful Microservices`
+
+> **Production-grade full-stack web platforms** built with modern reactive component design, secure role-based access control (RBAC), and high-throughput backend services.
+
+- **Frontend Architecture:** Declarative React.js client featuring reusable component systems, custom hooks, global state orchestration, and responsive Tailwind UI.
+- **Backend & Data Pipeline:** Robust RESTful services built on Node.js & Express.js with schema-level validation, JWT session handling, and optimized MongoDB/MySQL data modeling.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
