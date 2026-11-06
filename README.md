@@ -80,13 +80,42 @@ Dehli Government Boys Secondary School, Karachi
 
 ## Featured Projects
 
-### Pakistan Sign Language (PSL) Translator App
-> A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
-- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
-
-### Full-Stack & MERN Web Applications
-> Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
-- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📱 Pakistan Sign Language (PSL) Translator</h3>
+      <p align="left">
+        <em>AI-powered mobile application designed to bridge the communication gap for Pakistan's hearing-impaired community with real-time gesture recognition.</em>
+      </p>
+      <ul>
+        <li>Real-time sign language recognition using MediaPipe hand tracking & LSTM models</li>
+        <li>Clean cross-platform mobile UI built in Flutter with low-latency API integration</li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 Full-Stack & MERN Applications</h3>
+      <p align="left">
+        <em>End-to-end web applications built with modern component architectures, robust RESTful APIs, and responsive design systems.</em>
+      </p>
+      <ul>
+        <li>Secure authentication, state management, and optimized MongoDB/MySQL data models</li>
+        <li>Production-ready applications built with MERN stack & Laravel ecosystem</li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
