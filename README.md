@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Abdul%20Wasay%20Ali&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Flutter%20%26%20MERN%20Stack%20Developer&descFontSize=17&descAlignY=62" width="100%" alt="Header Banner" />
-
-  <br/>
+  <h1>Abdul Wasay Ali</h1>
+  <p><b>Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration</b></p>
 
   <a href="https://github.com/AbdulWasayAli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Typing Banner" />
   </a>
 
   <p align="center">
@@ -165,7 +164,3 @@ Currently pursuing a Diploma in Software Engineering alongside Intermediate stud
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,21,11,1&height=110&section=footer" width="100%" alt="Footer Banner" />
-</div>
