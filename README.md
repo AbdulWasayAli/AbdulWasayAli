@@ -1,6 +1,6 @@
 # Abdul Wasay Ali
 
-## Aspiring Software Engineer | Flutter & Mobile Apps | MERN Stack & Full-Stack Web | Passionate About Building Impactful Solutions
+## Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
 
 I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
@@ -16,9 +16,14 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ## Education
 
-**Intermediate & Diploma in Software Engineering** — Aptech Institute *(Continue)*
+**Diploma in Software Engineering** *(2024 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal *(Continuing)*
 
-**Matriculation (Science Group - Biology)** — Dehli Government Boys Secondary School, Karachi *(2020 – 2021)*
+**Intermediate** *(2026 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education) *(Continuing)*
+
+**Matriculation (Science Group - Biology)** *(2020 – 2021)*  
+Dehli Government Boys Secondary School, Karachi
 
 ---
 
