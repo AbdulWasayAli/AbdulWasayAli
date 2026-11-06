@@ -41,6 +41,7 @@ Dehli Government Boys Secondary School, Karachi
   - HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
 
 - **Backend & Other Frameworks**
+  - Python & R Programming
   - PHP & Laravel Framework
   - ASP.NET MVC & C# (.NET Framework)
   - Relational Databases: MySQL & SQL Server
@@ -53,6 +54,8 @@ Dehli Government Boys Secondary School, Karachi
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /></a>&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /></a>&nbsp;
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" title="R" /></a>&nbsp;
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" /></a>&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js" /></a>&nbsp;
