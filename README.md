@@ -58,22 +58,19 @@ Dehli Government Boys Secondary School, Karachi
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js" /></a>&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
 </p>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" /></a>&nbsp;
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" title="ASP.NET" /></a>&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>&nbsp;
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>&nbsp;
   <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>&nbsp;
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /></a>&nbsp;
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" /></a>&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /></a>
 </p>
 
 ---
