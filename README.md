@@ -1,6 +1,12 @@
 # Abdul Wasay Ali
 
-## Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
+### Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
+
+<p align="left">
+  <a href="https://github.com/AbdulWasayAli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=650&height=40&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Terminal Typist" />
+  </a>
+</p>
 
 I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
@@ -115,6 +121,22 @@ Dehli Government Boys Secondary School, Karachi
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## Engineering Telemetry & Activity
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWasayAli&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Telemetry" />
+</div>
+
+<br/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=9CA3AF" height="165" alt="Top Languages" />
 </p>
 
 ---
