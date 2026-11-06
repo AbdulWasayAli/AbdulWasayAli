@@ -48,7 +48,7 @@ Dehli Government Boys Secondary School, Karachi
 
 ---
 
-## Tech Stack
+## Technologies & Tools
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
