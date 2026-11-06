@@ -1,27 +1,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/header.png?v=2" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
 
-  <br/><br/>
-
-  <a href="https://github.com/AbdulWasayAli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+MERN+%26+Web+Systems+Engineer;Firebase+%7C+REST+APIs+%7C+Modern+UI%2FUX;Building+Impactful+%26+Scalable+Solutions" alt="Animated Typing Banner" />
-  </a>
+  <br/>
 
   <p align="center">
     <a href="https://abdulwasayali.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/AbdulWasayAli" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
   </p>
 
@@ -150,18 +146,18 @@ Currently pursuing a Diploma in Software Engineering alongside Intermediate stud
 
 <p align="center">
   <a href="https://abdulwasayali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AbdulWasayAli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 </p>
