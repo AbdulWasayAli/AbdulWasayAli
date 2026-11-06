@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/header.png" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
+  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/header.png?v=2" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
 
   <br/><br/>
 
