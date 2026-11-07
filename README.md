@@ -73,15 +73,15 @@ Passionate Software Engineering student based in **Karachi, Pakistan**. I focus 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=D1FAE5" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&hide_border=false&bg_color=161B22&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9&border_color=30363D&border_radius=10" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=D1FAE5" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&hide_border=false&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=D1FAE5&sideLabels=34D399" height="155" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=false&background=161B22&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideNums=C9D1D9&sideLabels=8B949E&border=30363D&border_radius=10" height="165" alt="GitHub Streak" />
 </div>
 
 ---
