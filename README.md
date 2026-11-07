@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abdulwasayali.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abdulwasayali.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AbdulWasayAli" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -73,15 +73,15 @@ Passionate Software Engineering student based in **Karachi, Pakistan**. I focus 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&hide_border=false&bg_color=161B22&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9&border_color=30363D&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&hide_border=false&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=FFFFFF&border_color=1F4A38&border_radius=12" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&hide_border=false&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&hide_border=false&bg_color=0D1117&title_color=10B981&text_color=FFFFFF&border_color=1F4A38&border_radius=12" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=false&background=161B22&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideNums=C9D1D9&sideLabels=8B949E&border=30363D&border_radius=10" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=false&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=FFFFFF&sideLabels=10B981&border=1F4A38&border_radius=12" height="165" alt="GitHub Streak" />
 </div>
 
 ---
