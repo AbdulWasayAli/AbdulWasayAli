@@ -81,7 +81,7 @@ Passionate Software Engineering student based in **Karachi, Pakistan**. I focus 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=false&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=FFFFFF&sideLabels=10B981&border=1F4A38&border_radius=12" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=false&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=10B981&dates=94A3B8&border=1F4A38&border_radius=12" height="165" alt="GitHub Streak" />
 </div>
 
 ---
