@@ -1,81 +1,56 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/header.png?v=2" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
+# Abdul Wasay Ali
 
-  <br/>
+## Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
 
-  <p align="center">
-    <a href="https://abdulwasayali.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/AbdulWasayAli" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-    </a>
-  </p>
+I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
-  <img src="https://komarev.com/ghpvc/?username=AbdulWasayAli&style=flat-square&color=00f0ff&label=PROFILE+VIEWS" alt="Profile Views" />
+I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
 
-</div>
+Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.
+
+I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.
+
+My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
 
 ---
 
-### About Me
+## Education
 
-I'm **Abdul Wasay Ali** — an aspiring Software Engineer and tech enthusiast based in Karachi, Pakistan. 
+**Diploma in Software Engineering** *(2024 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal *(Continuing)*
 
-Currently pursuing a Diploma in Software Engineering alongside Intermediate studies at **Aptech Computer Education (SBTE)**. I specialize in building performant cross-platform mobile apps with **Flutter & Dart**, as well as architecting modern data-driven web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+**Intermediate** *(2026 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education) *(Continuing)*
 
-- **Focus Areas:** Cross-Platform Mobile Architecture, Reactive State Management, RESTful API Engineering, Full-Stack Web Development.
-- **Current Goals:** Seeking impactful software engineering internships, collaborative open-source opportunities, and production-level development roles.
-- **Mission:** Engineering elegant, scalable, and human-centric software solutions that solve real-world problems.
-
----
-
-### Education
-
-- **Diploma in Software Engineering** *(2024 – 2027)*  
-  Aptech Computer Education, Shahrah-e-Faisal *(Continuing)*
-
-- **Intermediate** *(2026 – 2027)*  
-  Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education) *(Continuing)*
-
-- **Matriculation — Science Group (Biology)** *(2020 – 2021)*  
-  Dehli Government Boys Secondary School, Karachi
+**Matriculation (Science Group - Biology)** *(2020 – 2021)*  
+Dehli Government Boys Secondary School, Karachi
 
 ---
 
-### Core Expertise
+## Core Expertise
 
 - **Mobile App Development**
-  - Flutter & Dart (Cross-platform, high-performance responsive UI)
-  - Firebase Authentication, Cloud Firestore, Cloud Storage & REST API Consumption
-  - Provider State Management & Clean Architecture
+  - Flutter & Dart (Cross-platform, responsive UI)
+  - Firebase Integration & REST API Consumption
+  - Provider State Management
 
 - **Full-Stack & MERN Stack Development**
-  - MongoDB & Mongoose ORM
-  - Express.js & Node.js (RESTful API Design, JWT Auth)
-  - React.js (Component architecture, Custom Hooks, State management)
+  - MongoDB & Mongoose
+  - Express.js & Node.js (RESTful APIs)
+  - React.js (Component architecture, Hooks, State management)
   - HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
 
 - **Backend & Other Frameworks**
   - Python & R Programming
   - PHP & Laravel Framework
   - ASP.NET MVC & C# (.NET Framework)
-  - Relational Databases: MySQL & Microsoft SQL Server
+  - Relational Databases: MySQL & SQL Server
 
 ---
 
-### Technologies & Tools
+## Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /></a>&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
@@ -88,10 +63,9 @@ Currently pursuing a Diploma in Software Engineering alongside Intermediate stud
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" /></a>&nbsp;
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>&nbsp;
@@ -104,60 +78,25 @@ Currently pursuing a Diploma in Software Engineering alongside Intermediate stud
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-#### Pakistan Sign Language (PSL) Translator App
-> *A Flutter-based intelligent mobile application for real-time Pakistan Sign Language translation using MediaPipe hand tracking and LSTM sequence models. Designed to eliminate communication barriers for Pakistan's hearing-impaired community.*
+### Pakistan Sign Language (PSL) Translator App
+> A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
+- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-- **Highlights:** Real-time sign-to-text recognition, on-device gesture tracking, low-latency API integration.
-- **Technologies:** `Flutter` `Dart` `Python` `FastAPI` `MediaPipe` `TensorFlow`
-
-#### Full-Stack & MERN Web Applications
-> *Robust, responsive, and scalable full-stack web applications engineered with modern component architectures, secure RESTful APIs, and optimized database models.*
-
-- **Highlights:** Role-based authentication, dynamic state orchestration, CRUD workflows, responsive UI.
-- **Technologies:** `React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `Tailwind CSS` `Bootstrap` `Laravel` `MySQL`
+### Full-Stack & MERN Web Applications
+> Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
 
 ---
 
-### GitHub Activity & Telemetry
+## Connect with Me
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWasayAli&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" height="175" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=9CA3AF" height="175" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWasayAli&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulwasayali.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulWasayAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com)
 
 ---
 
-### Connect with Me
-
-<p align="center">
-  <a href="https://abdulwasayali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AbdulWasayAli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
-</p>
+*"Always eager to learn, build, and collaborate."*
