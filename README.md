@@ -11,23 +11,34 @@
 
 ---
 
-### About
+<p align="center">
+  <img src="./assets/about-section.svg" width="100%" alt="About Abdul Wasay Ali — Software Engineering student focused on mobile, web, and accessibility" />
+</p>
 
-> Software Engineering student building accessible mobile products and modern, data-driven web applications.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>PROFILE</strong><br /><br />
+      Based in <strong>Karachi, Pakistan</strong>, I design and develop responsive digital experiences with <strong>Flutter &amp; Dart</strong> for mobile and the <strong>MERN stack</strong> for the web.
+    </td>
+    <td width="50%" valign="top">
+      <strong>WHAT I BUILD</strong><br /><br />
+      Clean, scalable products with thoughtful user experiences—from cross-platform mobile applications and reactive interfaces to RESTful APIs and full-stack web platforms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>CURRENTLY BUILDING</strong><br /><br />
+      A <a href="https://github.com/AbdulWasayAli">Pakistan Sign Language (PSL) Translator App</a> to help make communication more accessible.
+    </td>
+    <td width="50%" valign="top">
+      <strong>OPEN TO</strong><br /><br />
+      Software Engineering internships, meaningful product collaborations, and conversations about Flutter, Dart, React, Node.js, Express, MongoDB, Firebase, and accessible technology.
+    </td>
+  </tr>
+</table>
 
-Based in **Karachi, Pakistan**, I design and develop responsive digital experiences with **Flutter & Dart** for mobile and the **MERN stack** for the web. I enjoy turning practical problems into clean, scalable products with thoughtful user experiences.
-
-**Current Focus**
-
-- Building a [Pakistan Sign Language (PSL) Translator App](https://github.com/AbdulWasayAli) to help make communication more accessible.
-- Developing cross-platform mobile applications, RESTful APIs, reactive interfaces, and full-stack web platforms.
-
-**Open To**
-
-- Software Engineering internships and meaningful product collaborations.
-- Conversations about Flutter, Dart, React, Node.js, Express, MongoDB, Firebase, and accessible technology.
-
-<p align="right"><sub>Focused on building useful, reliable, and scalable digital solutions.</sub></p>
+<p align="center"><sub>Focused on building useful, reliable, and scalable digital solutions.</sub></p>
 
 ---
 
