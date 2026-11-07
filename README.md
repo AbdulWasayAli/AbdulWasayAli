@@ -11,15 +11,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-Passionate Software Engineering student based in **Karachi, Pakistan**. I focus on engineering clean, responsive mobile applications using **Flutter & Dart**, as well as architecting modern data-driven web platforms using the **MERN Stack**.
+> Software Engineering student building accessible mobile products and modern, data-driven web applications.
 
-- 🔭 **Currently Working On:** [Pakistan Sign Language (PSL) Translator App](https://github.com/AbdulWasayAli)
-- 🌱 **Core Competencies:** Cross-Platform Mobile Apps, RESTful APIs, Reactive State Management, Full-Stack Web
-- 💼 **Looking For:** Software Engineering Internships & Collaborative Project Opportunities
-- 💬 **Ask Me About:** Flutter, Dart, React.js, Node.js, Express, MongoDB, Firebase
-- ⚡ **Goal:** Building impactful, accessible, and scalable digital solutions
+Based in **Karachi, Pakistan**, I design and develop responsive digital experiences with **Flutter & Dart** for mobile and the **MERN stack** for the web. I enjoy turning practical problems into clean, scalable products with thoughtful user experiences.
+
+**Current Focus**
+
+- Building a [Pakistan Sign Language (PSL) Translator App](https://github.com/AbdulWasayAli) to help make communication more accessible.
+- Developing cross-platform mobile applications, RESTful APIs, reactive interfaces, and full-stack web platforms.
+
+**Open To**
+
+- Software Engineering internships and meaningful product collaborations.
+- Conversations about Flutter, Dart, React, Node.js, Express, MongoDB, Firebase, and accessible technology.
+
+<p align="right"><sub>Focused on building useful, reliable, and scalable digital solutions.</sub></p>
 
 ---
 
