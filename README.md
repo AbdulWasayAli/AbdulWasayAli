@@ -1,98 +1,102 @@
-<div align="center">
+# Abdul Wasay Ali
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1b27,50:7aa2f7,100:bb9af7&text=Abdul%20Wasay%20Ali&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Flutter%20Mobile%20App%20%26%20MERN%20Stack%20Developer&descSize=18&descAlignY=56&animation=fadeIn" alt="Abdul Wasay Ali" width="100%" />
+## Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Aspiring+Software+Engineer;Flutter+%26+Dart+%7C+Firebase+%7C+REST+APIs;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Open+to+internships+%26+real-world+projects" alt="Typing SVG" />
+I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
-<br/><br/>
+I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
 
-<a href="https://abdulwasayali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24283b?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7dcfff" alt="LinkedIn" /></a>
-<a href="https://github.com/AbdulWasayAli"><img src="https://img.shields.io/badge/GitHub-24283b?style=for-the-badge&logo=github&logoColor=bb9af7" alt="GitHub" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.
 
-<br/><br/>
+I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.
 
-<img src="https://komarev.com/ghpvc/?username=AbdulWasayAli&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
 
-</div>
+---
 
-<br/>
+## Education
 
-<h2 align="center">✨ About Me</h2>
+**Diploma in Software Engineering** *(2024 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal *(Continuing)*
 
-```js
-const abdulWasay = {
-  role: "Software Engineering Student",
-  institute: "Aptech Computer Education — Karachi, Pakistan",
-  focus: ["Flutter & Dart", "MERN Stack", "Firebase", "REST APIs"],
-  building: "Mobile apps & full-stack web apps that solve real problems",
-  lookingFor: "Internships & project collaborations",
-  motto: "Always eager to learn, build, and collaborate."
-};
-```
+**Intermediate** *(2026 – 2027)*  
+Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education) *(Continuing)*
 
-<br/>
+**Matriculation (Science Group - Biology)** *(2020 – 2021)*  
+Dehli Government Boys Secondary School, Karachi
 
-<h2 align="center">🛠️ Tech Stack</h2>
+---
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>📱 Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet,python,r" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio" alt="Tools" /></td>
-  </tr>
-</table>
-</div>
+## Core Expertise
 
-<br/>
+- **Mobile App Development**
+  - Flutter & Dart (Cross-platform, responsive UI)
+  - Firebase Integration & REST API Consumption
+  - Provider State Management
 
-<h2 align="center">🚀 Featured Projects</h2>
+- **Full-Stack & MERN Stack Development**
+  - MongoDB & Mongoose
+  - Express.js & Node.js (RESTful APIs)
+  - React.js (Component architecture, Hooks, State management)
+  - HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
 
-<div align="center">
+- **Backend & Other Frameworks**
+  - Python & R Programming
+  - PHP & Laravel Framework
+  - ASP.NET MVC & C# (.NET Framework)
+  - Relational Databases: MySQL & SQL Server
 
-<!-- Repo ke naam apne asli naam se check/badal lein -->
-<a href="https://github.com/AbdulWasayAli/Currency-Mobile-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWasayAli&repo=Currency-Mobile-Application&theme=tokyonight&hide_border=true" alt="CurrenSee" /></a>
-<a href="https://github.com/AbdulWasayAli/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWasayAli&repo=Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" /></a>
-<br/>
-<a href="https://github.com/AbdulWasayAli/EventEase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWasayAli&repo=EventEase&theme=tokyonight&hide_border=true" alt="EventEase" /></a>
-<a href="https://github.com/AbdulWasayAli/PSL-Translator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWasayAli&repo=PSL-Translator&theme=tokyonight&hide_border=true" alt="PSL Translator" /></a>
+---
 
-</div>
+## Tech Stack
 
-<br/>
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /></a>&nbsp;
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /></a>&nbsp;
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" title="R" /></a>&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js" /></a>&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
+</p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" /></a>&nbsp;
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" title="ASP.NET" /></a>&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /></a>
+</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=AbdulWasayAli&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+## Featured Projects
 
-<br/>
+### Pakistan Sign Language (PSL) Translator App
+> A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
+- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-<div align="center">
+### Full-Stack & MERN Web Applications
+> Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
+
+---
+
+## Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulwasayali.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulWasayAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com)
+
+---
 
 *"Always eager to learn, build, and collaborate."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:bb9af7,50:7aa2f7,100:1a1b27" width="100%" alt="footer" />
-
-</div>
