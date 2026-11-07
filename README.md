@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/banner.png?v=3" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
+  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/banner.png?v=4" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
 </p>
 
 <p align="center">
   <a href="https://abdulwasayali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=10B981" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/AbdulWasayAli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wasay3105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" />
   </a>
 </p>
 
@@ -84,15 +84,15 @@ Passionate Software Engineering student based in **Karachi, Pakistan**. I focus 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulWasayAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=D1FAE5" height="155" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=9CA3AF" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=D1FAE5" height="155" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulWasayAli&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=D1FAE5&sideLabels=34D399" height="155" alt="GitHub Streak" />
 </div>
 
 ---
