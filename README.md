@@ -1,8 +1,8 @@
-# Abdul Wasay Ali
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulWasayAli/AbdulWasayAli/main/assets/banner.png" width="100%" alt="Abdul Wasay Ali - Software Engineer" />
+</p>
 
-### Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
-
-<p align="left">
+<p align="center">
   <a href="https://abdulwasayali.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
