@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="40" viewBox="0 0 820 40" role="img" aria-label="GitHub Stats headers">
-  <rect x="0.5" y="0.5" width="819" height="39" rx="8" ry="8" fill="#0B1511" stroke="#1F4A38" stroke-width="1"/>
-  <line x1="410" y1="1" x2="410" y2="39" stroke="#1F4A38" stroke-width="1"/>
-  <text x="205" y="26" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1.5">GITHUB STATS · RANK</text>
-  <text x="615" y="26" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1.5">TOP LANGUAGES</text>
-</svg>

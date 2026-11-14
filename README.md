@@ -19,34 +19,13 @@
 
 ## Tools & Technologies
 
-Your complete stack stays together in one compact icon section, without repeating it in long bullet lists.
-
-<img src="assets/tech-header.svg" width="100%" alt="Complete Technology Stack — 24 tools" />
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,postman,vscode,git,github,figma&perline=12" alt="Complete Technology Stack: Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, Postman, VS Code, Git, GitHub, and Figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,git,github,figma&perline=11" alt="Tools & Technologies: Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, Git, GitHub, and Figma" />
 </p>
-
-<img src="assets/tech-footer.svg" width="100%" alt="Includes cross-platform UI, Provider state management, REST API integration, and responsive web development" />
-
----
-
-## GitHub Activity
-
-Your public GitHub activity and language distribution, shown in the same emerald theme.
-
-<p align="center">
-  <img src="assets/github-stats.svg" width="49%" alt="Public GitHub statistics for Abdul Wasay Ali" />
-  <img src="assets/top-langs.svg" width="49%" alt="Top programming languages" />
-</p>
-
-The real contribution graph remains visible on your GitHub profile below the README.
 
 ---
 
 ## Education
-
-Your complete academic path, clearly presented.
 
 <img src="assets/education-timeline.svg" width="100%" alt="Education timeline — Diploma in Software Engineering (2024-2027), Intermediate (2026-2027), Matriculation (2020-2021)" />
 
