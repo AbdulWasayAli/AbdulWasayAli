@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280" role="img" aria-label="About Me Card">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" role="img" aria-label="About Me Card">
   <defs>
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#091611" />
@@ -8,41 +8,36 @@
   </defs>
 
   <!-- Card Background & Border -->
-  <rect x="0.5" y="0.5" width="859" height="279" rx="8" fill="url(#cardBg)" stroke="#1F4D38" stroke-width="1.2" />
-
-  <!-- Main Headline -->
-  <text x="24" y="34" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" letter-spacing="0.2">
-    Aspiring Software Engineer <tspan fill="#ffffff">|</tspan> Mobile App Developer <tspan fill="#ffffff">|</tspan> Flutter &amp; Dart <tspan fill="#ffffff">|</tspan> MERN Stack <tspan fill="#ffffff">|</tspan> Firebase &amp; REST API Integration
-  </text>
+  <rect x="0.5" y="0.5" width="859" height="239" rx="8" fill="url(#cardBg)" stroke="#1F4D38" stroke-width="1.2" />
 
   <!-- Paragraph 1 -->
-  <text x="24" y="68" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     I'm <tspan fill="#FFFFFF" font-weight="600">Abdul Wasay Ali</tspan> — a passionate Software Engineering student based in <tspan fill="#FFFFFF" font-weight="500">Karachi, Pakistan</tspan>.
   </text>
 
   <!-- Paragraph 2 -->
-  <text x="24" y="100" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="70" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     I am currently pursuing a <tspan fill="#FFFFFF" font-weight="500">Diploma in Software Engineering</tspan>, and continuing my Intermediate studies also from <tspan fill="#FFFFFF" font-weight="500">Aptech (SBTE)</tspan>.
   </text>
 
   <!-- Paragraph 3 -->
-  <text x="24" y="132" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="102" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several
   </text>
-  <text x="24" y="153" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="123" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     academic and personal projects that have strengthened my practical understanding of software development across mobile &amp; web platforms.
   </text>
 
   <!-- Paragraph 4 -->
-  <text x="24" y="185" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="155" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for <tspan fill="#FFFFFF" font-weight="500">internship and project opportunities</tspan>
   </text>
-  <text x="24" y="206" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="176" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     to grow further and gain hands-on experience in the tech industry.
   </text>
 
   <!-- Paragraph 5 -->
-  <text x="24" y="238" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
+  <text x="24" y="208" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" font-weight="400">
     My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
   </text>
 </svg>
