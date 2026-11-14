@@ -1,13 +1,6 @@
 name: Update profile stats cards
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - README.md
-      - .github/workflows/update-profile-stats.yml
-  schedule:
-    - cron: "17 3 * * 1"
   workflow_dispatch:
 
 permissions:
