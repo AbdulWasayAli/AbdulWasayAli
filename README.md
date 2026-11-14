@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Abdul Wasay Ali — Software Engineer" />
+  <img src="assets/banner.png" width="100%" alt="Abdul Wasay Ali — Software Engineer" />
 </p>
 
 <p align="center">
