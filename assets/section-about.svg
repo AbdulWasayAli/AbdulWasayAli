@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28" viewBox="0 0 170 28" role="img" aria-labelledby="t">
-  <title id="t">About me</title>
-  <text x="0" y="20" fill="#82e3b7" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">ABOUT ME</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="26" viewBox="0 0 200 26" role="img" aria-label="ABOUT ME">
+  <text x="0" y="18" fill="#38EF7D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.5">ABOUT ME</text>
 </svg>
