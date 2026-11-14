@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=AbdulWasayAli&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&title_color=56d6a3&text_color=c9d1d9&icon_color=56d6a3&bg_color=0d1117"
+          options: "username=AbdulWasayAli&show_icons=true&hide_rank=true&custom_title=My%20GitHub%20Statistics&theme=transparent&hide_border=false&border_color=1F4A38&border_radius=12&title_color=82e3b7&text_color=c9d1d9&icon_color=56d6a3&bg_color=0B1410"
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=AbdulWasayAli&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=56d6a3&text_color=c9d1d9&bg_color=0d1117"
+          options: "username=AbdulWasayAli&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=false&border_color=1F4A38&border_radius=12&title_color=82e3b7&text_color=c9d1d9&bg_color=0B1410"
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true

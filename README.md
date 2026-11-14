@@ -11,53 +11,64 @@
 
 ---
 
-## About Me
+<p><img src="assets/section-about.svg" width="120" alt="About Me" /></p>
 
-### Aspiring Software Engineer | Mobile App Developer | Flutter & Dart | MERN Stack | Firebase & REST API Integration
-
-I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
-
-I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
-
-Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.
-
-I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.
-
-My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
-
----
-
-## Technology Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
-</p>
-
-<p align="center"><sub>Cross-platform apps · REST API integration · State management · Responsive web development</sub></p>
+<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
+  <tbody><tr><td>
+    <p><strong>Aspiring Software Engineer | Mobile App Developer | Flutter &amp; Dart | MERN Stack | Firebase &amp; REST API Integration</strong></p>
+    <p>I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.</p>
+    <p>I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).</p>
+    <p>Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.</p>
+    <p>I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.</p>
+    <p>My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.</p>
+  </td></tr></tbody>
+</table>
 
 ---
 
-## GitHub Activity & Analytics
+<p><img src="assets/section-toolkit.svg" width="190" alt="Technology Toolkit" /></p>
 
-<p align="center">
-  <img src="assets/github-stats.svg" width="49%" alt="GitHub statistics and rank for Abdul Wasay Ali" />
-  <img src="assets/top-langs.svg" width="49%" alt="Top programming languages" />
-</p>
+## Tools and technologies
+
+Your complete stack stays together in one compact section, without repeating it in long lists.
+
+<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
+  <thead><tr><th align="left">Complete Technology Stack</th><th align="right">23 tools</th></tr></thead>
+  <tbody><tr><td colspan="2" align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
+  </td></tr><tr><td colspan="2" align="center"><sub>Cross-platform apps · REST API integration · State management · Responsive web development</sub></td></tr></tbody>
+</table>
+
+---
+
+<p><img src="assets/section-analytics.svg" width="280" alt="GitHub Activity and Analytics" /></p>
+
+## GitHub activity
+
+Your public GitHub activity and language distribution, shown in the same emerald theme.
+
+<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
+  <thead><tr><th>GITHUB STATS · ACTIVITY</th><th>TOP LANGUAGES</th></tr></thead>
+  <tbody><tr>
+    <td width="50%" align="center"><img src="assets/github-stats.svg" width="100%" alt="Public GitHub statistics for Abdul Wasay Ali" /></td>
+    <td width="50%" align="center"><img src="assets/top-langs.svg" width="100%" alt="Top programming languages" /></td>
+  </tr></tbody>
+</table>
 
 GitHub's native contribution calendar appears below this README on your profile.
 
 ---
 
+<p><img src="assets/section-education.svg" width="125" alt="Education" /></p>
+
 ## Education
 
-**Diploma in Software Engineering** · *2024–2027 · Continuing*<br>
-Aptech Computer Education, Shahrah-e-Faisal
-
-**Intermediate** · *2026–2027 · Continuing*<br>
-Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
-
-**Matriculation — Science Group (Biology)** · *2020–2021*<br>
-Dehli Government Boys Secondary School, Karachi
+1. **Diploma in Software Engineering** · *2024–2027 · Continuing*<br>
+   Aptech Computer Education, Shahrah-e-Faisal
+2. **Intermediate** · *2026–2027 · Continuing*<br>
+   Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
+3. **Matriculation — Science Group (Biology)** · *2020–2021*<br>
+   Dehli Government Boys Secondary School, Karachi
 
 ---
 
