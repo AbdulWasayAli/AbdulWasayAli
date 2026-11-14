@@ -1,6 +1,8 @@
 name: Update profile stats cards
 
 on:
+  schedule:
+    - cron: "17 3 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -30,6 +32,9 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Normalize cards to matching 467x195 layout
+        run: python scripts/normalize_cards.py
 
       - name: Commit updated cards
         run: |
