@@ -30,13 +30,13 @@
 
 ## Tools and technologies
 
-Your complete stack stays together in one compact section, without repeating it in long lists.
+Your complete stack stays together in one compact icon section, without repeating it in long bullet lists.
 
 <table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
   <thead><tr><th align="left">Complete Technology Stack</th><th align="right">23 tools</th></tr></thead>
   <tbody><tr><td colspan="2" align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
-  </td></tr><tr><td colspan="2" align="center"><sub>Cross-platform apps · REST API integration · State management · Responsive web development</sub></td></tr></tbody>
+  </td></tr><tr><td colspan="2" align="center"><sub>Includes cross-platform UI, Provider state management, REST API integration, and responsive web development.</sub></td></tr></tbody>
 </table>
 
 ---
@@ -45,17 +45,17 @@ Your complete stack stays together in one compact section, without repeating it 
 
 ## GitHub activity
 
-Your public GitHub activity and language distribution, shown in the same emerald theme.
+Your A+ rank and language distribution cards keep the analytics section compact and on-theme.
 
 <table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
-  <thead><tr><th>GITHUB STATS · ACTIVITY</th><th>TOP LANGUAGES</th></tr></thead>
+  <thead><tr><th>GITHUB STATS · RANK</th><th>TOP LANGUAGES</th></tr></thead>
   <tbody><tr>
     <td width="50%" align="center"><img src="assets/github-stats.svg" width="100%" alt="Public GitHub statistics for Abdul Wasay Ali" /></td>
     <td width="50%" align="center"><img src="assets/top-langs.svg" width="100%" alt="Top programming languages" /></td>
   </tr></tbody>
 </table>
 
-GitHub's native contribution calendar appears below this README on your profile.
+The real contribution graph remains visible on your GitHub profile below the README.
 
 ---
 
@@ -63,13 +63,20 @@ GitHub's native contribution calendar appears below this README on your profile.
 
 ## Education
 
-1. **Diploma in Software Engineering** · *2024–2027 · Continuing*<br>
-   Aptech Computer Education, Shahrah-e-Faisal
-2. **Intermediate** · *2026–2027 · Continuing*<br>
-   Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
-3. **Matriculation — Science Group (Biology)** · *2020–2021*<br>
-   Dehli Government Boys Secondary School, Karachi
+Your complete academic path, clearly presented.
+
+🟢 &nbsp; **2024 — 2027 · CONTINUING**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Diploma in Software Engineering**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aptech Computer Education, Shahrah-e-Faisal
+
+🟢 &nbsp; **2026 — 2027 · CONTINUING**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Intermediate**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
+
+🔴 &nbsp; **2020 — 2021**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Matriculation — Science Group (Biology)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dehli Government Boys Secondary School, Karachi
 
 ---
 
-<p align="center"><em>“Always eager to learn, build, and collaborate.”</em></p>
+<p align="center"><em>"Always eager to learn, build, and collaborate."</em></p>
