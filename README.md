@@ -62,7 +62,14 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ## Education
 
-<img src="assets/education-timeline.svg" width="100%" alt="Education timeline — Diploma in Software Engineering (2024-2027), Intermediate (2026-2027), Matriculation (2020-2021)" />
+- **Diploma in Software Engineering** *(2024 – 2027 · Continuing)*  
+  Aptech Computer Education, Shahrah-e-Faisal
+
+- **Intermediate** *(2026 – 2027 · Continuing)*  
+  Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
+
+- **Matriculation — Science Group (Biology)** *(2020 – 2021)*  
+  Dehli Government Boys Secondary School, Karachi
 
 ---
 
