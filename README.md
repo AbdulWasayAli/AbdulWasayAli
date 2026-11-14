@@ -40,8 +40,8 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 ## GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWasayAli&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&title_color=56d6a3&text_color=c9d1d9&icon_color=56d6a3&bg_color=0d1117" width="49%" alt="GitHub statistics and rank for Abdul Wasay Ali" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayAli&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=56d6a3&text_color=c9d1d9&bg_color=0d1117" width="49%" alt="Top programming languages" />
+  <img src="assets/github-stats.svg" width="49%" alt="GitHub statistics and rank for Abdul Wasay Ali" />
+  <img src="assets/top-langs.svg" width="49%" alt="Top programming languages" />
 </p>
 
 GitHub's native contribution calendar appears below this README on your profile.
