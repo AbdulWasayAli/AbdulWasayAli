@@ -24,7 +24,7 @@ Your complete stack stays together in one compact icon section, without repeatin
 <img src="assets/tech-header.svg" width="100%" alt="Complete Technology Stack — 24 tools" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,postman,git,github,figma&perline=12" alt="Complete Technology Stack: Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,postman,vscode,git,github,figma&perline=12" alt="Complete Technology Stack: Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, Postman, VS Code, Git, GitHub, and Figma" />
 </p>
 
 <img src="assets/tech-footer.svg" width="100%" alt="Includes cross-platform UI, Provider state management, REST API integration, and responsive web development" />
