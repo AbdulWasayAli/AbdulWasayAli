@@ -12,7 +12,7 @@
 
   <!-- Main Headline -->
   <text x="24" y="34" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" letter-spacing="0.2">
-    Aspiring Software Engineer <tspan fill="#38EF7D">|</tspan> Mobile App Developer <tspan fill="#38EF7D">|</tspan> Flutter &amp; Dart <tspan fill="#38EF7D">|</tspan> MERN Stack <tspan fill="#38EF7D">|</tspan> Firebase &amp; REST API Integration
+    Aspiring Software Engineer <tspan fill="#ffffff">|</tspan> Mobile App Developer <tspan fill="#ffffff">|</tspan> Flutter &amp; Dart <tspan fill="#ffffff">|</tspan> MERN Stack <tspan fill="#ffffff">|</tspan> Firebase &amp; REST API Integration
   </text>
 
   <!-- Paragraph 1 -->
