@@ -29,6 +29,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Remove hidden rank from the SVG title
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          card = Path("assets/github-stats.svg")
+          svg = card.read_text(encoding="utf-8")
+          svg = re.sub(r", Rank: [A-F][+-]?(?=</title>)", "", svg, count=1)
+          card.write_text(svg, encoding="utf-8")
+          PY
+
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
