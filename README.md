@@ -13,16 +13,7 @@
 
 <p><img src="assets/section-about.svg" width="120" alt="About Me" /></p>
 
-<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
-  <tbody><tr><td>
-    <p><strong>Aspiring Software Engineer | Mobile App Developer | Flutter &amp; Dart | MERN Stack | Firebase &amp; REST API Integration</strong></p>
-    <p>I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.</p>
-    <p>I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).</p>
-    <p>Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.</p>
-    <p>I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.</p>
-    <p>My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.</p>
-  </td></tr></tbody>
-</table>
+<img src="assets/about-card.svg" width="100%" alt="About Me — Aspiring Software Engineer based in Karachi, Pakistan" />
 
 ---
 
@@ -32,12 +23,13 @@
 
 Your complete stack stays together in one compact icon section, without repeating it in long bullet lists.
 
-<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
-  <thead><tr><th align="left">Complete Technology Stack</th><th align="right">23 tools</th></tr></thead>
-  <tbody><tr><td colspan="2" align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
-  </td></tr><tr><td colspan="2" align="center"><sub>Includes cross-platform UI, Provider state management, REST API integration, and responsive web development.</sub></td></tr></tbody>
-</table>
+<img src="assets/tech-header.svg" width="100%" alt="Complete Technology Stack — 23 tools" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
+</p>
+
+<img src="assets/tech-footer.svg" width="100%" alt="Includes cross-platform UI, Provider state management, REST API integration, and responsive web development" />
 
 ---
 
@@ -47,13 +39,12 @@ Your complete stack stays together in one compact icon section, without repeatin
 
 Your A+ rank and language distribution cards keep the analytics section compact and on-theme.
 
-<table width="100%" border="1" bordercolor="#29473A" bgcolor="#0B1511">
-  <thead><tr><th>GITHUB STATS · RANK</th><th>TOP LANGUAGES</th></tr></thead>
-  <tbody><tr>
-    <td width="50%" align="center"><img src="assets/github-stats.svg" width="100%" alt="Public GitHub statistics for Abdul Wasay Ali" /></td>
-    <td width="50%" align="center"><img src="assets/top-langs.svg" width="100%" alt="Top programming languages" /></td>
-  </tr></tbody>
-</table>
+<img src="assets/stats-header.svg" width="100%" alt="GitHub Stats and Top Languages headers" />
+
+<p align="center">
+  <img src="assets/github-stats.svg" width="49%" alt="Public GitHub statistics for Abdul Wasay Ali" />
+  <img src="assets/top-langs.svg" width="49%" alt="Top programming languages" />
+</p>
 
 The real contribution graph remains visible on your GitHub profile below the README.
 
@@ -65,17 +56,7 @@ The real contribution graph remains visible on your GitHub profile below the REA
 
 Your complete academic path, clearly presented.
 
-🟢 &nbsp; **2024 — 2027 · CONTINUING**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Diploma in Software Engineering**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aptech Computer Education, Shahrah-e-Faisal
-
-🟢 &nbsp; **2026 — 2027 · CONTINUING**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Intermediate**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)
-
-🔴 &nbsp; **2020 — 2021**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Matriculation — Science Group (Biology)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dehli Government Boys Secondary School, Karachi
+<img src="assets/education-timeline.svg" width="100%" alt="Education timeline — Diploma in Software Engineering (2024-2027), Intermediate (2026-2027), Matriculation (2020-2021)" />
 
 ---
 

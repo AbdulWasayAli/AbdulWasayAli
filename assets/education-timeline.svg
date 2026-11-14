@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="265" viewBox="0 0 820 265" role="img" aria-label="Education timeline">
+  <circle cx="20" cy="26" r="7" fill="none" stroke="#2ea043" stroke-width="2"/>
+  <line x1="20" y1="35" x2="20" y2="98" stroke="#1F4A38" stroke-width="1"/>
+  <text x="40" y="30" fill="#2ea043" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2024 — 2027 · CONTINUING</text>
+  <text x="40" y="50" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Diploma in Software Engineering</text>
+  <text x="40" y="68" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="400">Aptech Computer Education, Shahrah-e-Faisal</text>
+  <circle cx="20" cy="106" r="7" fill="none" stroke="#2ea043" stroke-width="2"/>
+  <line x1="20" y1="115" x2="20" y2="178" stroke="#1F4A38" stroke-width="1"/>
+  <text x="40" y="110" fill="#2ea043" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2026 — 2027 · CONTINUING</text>
+  <text x="40" y="130" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Intermediate</text>
+  <text x="40" y="148" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="400">Aptech Computer Education, Shahrah-e-Faisal · SBTE (Sindh Board of Technical Education)</text>
+  <circle cx="20" cy="186" r="7" fill="none" stroke="#da3633" stroke-width="2"/>
+  <text x="40" y="190" fill="#da3633" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2020 — 2021</text>
+  <text x="40" y="210" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Matriculation — Science Group (Biology)</text>
+  <text x="40" y="228" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="400">Dehli Government Boys Secondary School, Karachi</text>
+</svg>
