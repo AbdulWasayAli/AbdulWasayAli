@@ -1,18 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="410" viewBox="0 0 820 410" role="img" aria-label="About Me section">
-  <rect x="0.5" y="0.5" width="819" height="409" rx="8" fill="#0B1511" stroke="#1F4A38" stroke-width="1"/>
-  <text x="24" y="32" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700">Aspiring Software Engineer | Mobile App Developer | Flutter &amp; Dart |</text>
-  <text x="24" y="52" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700">MERN Stack | Firebase &amp; REST API Integration</text>
-  <text x="24" y="84" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">I'm Abdul Wasay Ali — a passionate Software Engineering student based in</text>
-  <text x="24" y="104" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">Karachi, Pakistan.</text>
-  <text x="24" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">I am currently pursuing a Diploma in Software Engineering, and continuing</text>
-  <text x="24" y="156" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">my Intermediate studies also from Aptech (SBTE).</text>
-  <text x="24" y="188" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">Through my academic journey, I have developed a strong passion for technology</text>
-  <text x="24" y="208" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">and real-world problem-solving. I have worked on several academic and personal</text>
-  <text x="24" y="228" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">projects that have strengthened my practical understanding of software</text>
-  <text x="24" y="248" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">development — from front-end to back-end concepts across mobile and web platforms.</text>
-  <text x="24" y="280" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">I am always eager to learn, build projects, and collaborate with others. Currently,</text>
-  <text x="24" y="300" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">I am looking for internship and project opportunities to grow further and gain</text>
-  <text x="24" y="320" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">hands-on experience in the tech industry.</text>
-  <text x="24" y="352" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">My goal is to become a skilled software engineer who contributes meaningfully</text>
-  <text x="24" y="372" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="400">to innovative and impactful technology solutions.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="195" viewBox="0 0 880 195" role="img" aria-label="About Me">
+  <rect x="0.5" y="0.5" width="879" height="194" rx="8" fill="#0B1511" stroke="#1F4A38" stroke-width="1"/>
+  <text x="24" y="26" fill="#e6edf3" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="700">Aspiring Software Engineer | Mobile App Developer | Flutter &amp; Dart | MERN Stack | Firebase &amp; REST API Integration</text>
+  <text x="24" y="54" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.</text>
+  <text x="24" y="75" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).</text>
+  <text x="24" y="96" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several</text>
+  <text x="24" y="111" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">academic and personal projects that have strengthened my practical understanding of software development across mobile &amp; web platforms.</text>
+  <text x="24" y="132" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities</text>
+  <text x="24" y="147" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">to grow further and gain hands-on experience in the tech industry.</text>
+  <text x="24" y="168" fill="#c9d1d9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.2" font-weight="400">My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.</text>
 </svg>
