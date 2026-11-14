@@ -73,4 +73,4 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-<p align="center"><em>"Always eager to learn, build, and collaborate."</em></p>
+<p align="center"><em>"Engineering scalable systems that bridge the gap between complex problems and seamless digital experiences."</em></p>
