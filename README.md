@@ -11,7 +11,7 @@
 
 ---
 
-<p><img src="assets/section-about.svg" width="120" alt="About Me" /></p>
+<p><img src="assets/section-about.svg" width="240" alt="About Me" /></p>
 
 <img src="assets/about-card.svg" width="100%" alt="About Me — Aspiring Software Engineer based in Karachi, Pakistan" />
 
