@@ -11,35 +11,29 @@
 
 ---
 
-<p><img src="assets/section-about.svg" width="240" alt="About Me" /></p>
+## About Me
 
 <img src="assets/about-card.svg" width="100%" alt="About Me — Aspiring Software Engineer based in Karachi, Pakistan" />
 
 ---
 
-<p><img src="assets/section-toolkit.svg" width="190" alt="Technology Toolkit" /></p>
-
-## Tools and technologies
+## Tools & Technologies
 
 Your complete stack stays together in one compact icon section, without repeating it in long bullet lists.
 
 <img src="assets/tech-header.svg" width="100%" alt="Complete Technology Stack — 23 tools" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma" alt="Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,r,react,nodejs,express,mongodb,javascript,html,css,bootstrap,tailwind,php,laravel,cs,dotnet,mysql,mssql,git,github,figma&perline=12" alt="Complete Technology Stack: Flutter, Dart, Firebase, Python, R, React, Node.js, Express.js, MongoDB, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, C#, .NET, MySQL, SQL Server, Git, GitHub, and Figma" />
 </p>
 
 <img src="assets/tech-footer.svg" width="100%" alt="Includes cross-platform UI, Provider state management, REST API integration, and responsive web development" />
 
 ---
 
-<p><img src="assets/section-analytics.svg" width="280" alt="GitHub Activity and Analytics" /></p>
+## GitHub Activity
 
-## GitHub activity
-
-Your A+ rank and language distribution cards keep the analytics section compact and on-theme.
-
-<img src="assets/stats-header.svg" width="100%" alt="GitHub Stats and Top Languages headers" />
+Your public GitHub activity and language distribution, shown in the same emerald theme.
 
 <p align="center">
   <img src="assets/github-stats.svg" width="49%" alt="Public GitHub statistics for Abdul Wasay Ali" />
@@ -49,8 +43,6 @@ Your A+ rank and language distribution cards keep the analytics section compact 
 The real contribution graph remains visible on your GitHub profile below the README.
 
 ---
-
-<p><img src="assets/section-education.svg" width="125" alt="Education" /></p>
 
 ## Education
 
